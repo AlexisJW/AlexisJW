@@ -1,6 +1,6 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?size=35&duration=4500&color=975BF7&center=true&vCenter=true&width=1000&lines=Welcome!%F0%9F%A4%97;I'm+Alexis+%F0%9F%91%8B;Nice+to+meet+you!%F0%9F%98%84)](https://git.io/typing-svg)
 
-    - 👋 Hi, I’m Jean Walner ALEXIS, a *full-stack developer* learning the ropes about **JavaScript frameworks, React, and Ruby**.
+    - 👋 Hi, ALEXIS, a *full-stack developer* learning the ropes about **JavaScript frameworks, React, and Ruby**.
     
     - 🥉 I have a **bachelor's degree in computer science** at INUKA University.
     
